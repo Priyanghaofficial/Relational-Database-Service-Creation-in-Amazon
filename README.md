@@ -22,7 +22,8 @@ Launch the RDS instance, connect to it using a database client (e.g., MySQL Work
 mysql -h <endpoint> -u <username> -p
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/94a82bfb-22cc-470a-a494-e2eb5d8640b3)
+
+![image](https://github.com/user-attachments/assets/65fa4f5d-6a3d-4e9e-8930-fa002b2683d9)
 
 ### REG NUMBER:212223040157
 ### NAME:PRIYANGHA G
